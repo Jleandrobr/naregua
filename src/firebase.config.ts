@@ -1,12 +1,13 @@
 export const firebaseConfig = {
   firebase: {
-    apiKey: "AIzaSyDnmAoRNxu-7pgRP1GfJvjXC67nMkczZuY",
-  authDomain: "naregua-eac2e.firebaseapp.com",
-  projectId: "naregua-eac2e",
-  storageBucket: "naregua-eac2e.appspot.com",
-  messagingSenderId: "490059303891",
-  appId: "1:490059303891:web:3659df297384c8db11bd26",
-  measurementId: "G-CE4HHH09M7"
+    apiKey: "AIzaSyBzci8BJSitZ43tUA5BxpjSLYs4lEIzLVk",
+    authDomain: "naregua-9322d.firebaseapp.com",
+    databaseURL: "https://naregua-9322d-default-rtdb.firebaseio.com",
+    projectId: "naregua-9322d",
+    storageBucket: "naregua-9322d.appspot.com",
+    messagingSenderId: "690818161860",
+    appId: "1:690818161860:web:30587113a027b1380fbd91",
+    measurementId: "G-8KE9F57VMM"
   }
 
   };
